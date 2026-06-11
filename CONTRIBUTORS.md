@@ -30,6 +30,8 @@ This repository also includes project work and learning contributions from the *
 
 Student contributor names can be added below as the projects are completed.
 
-| Name          | Batch           | Project / Contribution              |
-| ------------- | --------------- | ----------------------------------- |
-| To be updated | G40 AI/ML Batch | Open Data Intelligence Hub projects |
+| Name             | Batch           | Project / Contribution              |
+| ---------------- | --------------- | ----------------------------------- |
+| To be updated    | G40 AI/ML Batch | Open Data Intelligence Hub projects |
+| Abhishek Chauhan | G40 AI/ML Batch | Economic Development Analytics     |
+
