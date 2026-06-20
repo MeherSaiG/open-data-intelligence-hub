@@ -37,6 +37,10 @@ Student contributor names can be added below as the projects are completed.
 | Guvvadi Ganesh   | G40 AI/ML Batch | Global Poverty Intelligence Platform|
 | Eswar | G40 AI/ML Batch | Wildfire Risk Intelligence Engine |
 | Varsha Chinnanarasannagari | G40 AI/ML Batch | Analyze and Predict Developer Salaries |
+| Sumasri | G40 AI/ML Batch | Biodiversity-Hotspot-Detection      |
+| Venkata Vivek | G40 AI/ML Batch | Global Earthquake Analytics Platform |
+| Manoj Kumar | G40 AI/ML Batch | Earthquake Trend Analytics |
+| Sruthi Doddi | G40 AI/ML Batch | Extreme Weather Intelligence Platform|
 | Sumasri          | G40 AI/ML Batch | Biodiversity-Hotspot-Detection      |
 | Nithin Kumar | G40 AI/ML Batch | Urbanization Analytics Engine |
 | Venkata Vivek | G40 AI/ML Batch | Global Earthquake Analytics Platform |
@@ -46,3 +50,5 @@ Student contributor names can be added below as the projects are completed.
 | Atit Patel | G40 AI/ML Batch | Sports performance warehouse |
 | G Meher Sai       |G40  AI/ML Batch | Global Happiness Analytics Platform|
 | Abhiram Kodali  -| G40 AI/ML Batch |  Olympic Performance Analytics |
+| Kavita Kanchan | G40 AL/ML Batch | Olympic Medal Intelligence Platform |
+| Sireesha | G40 AI/ML | Cliamte Anomaly Detection |
