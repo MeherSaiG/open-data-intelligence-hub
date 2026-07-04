@@ -21,3 +21,5 @@ Pipeline Components:
 
 Outcome:
 The model predicts whether a passenger survived or not.
+
+Project submitted by Nidhi Sandbhor.
