@@ -1,9 +1,7 @@
 # 🛒 SmartShop Recommendation System
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+
+![Streamlit](https://multialgorithmrecommendationsystemgit-gu9v58tfxyyukvnq94a46h.streamlit.app/)
 
 ---
 
