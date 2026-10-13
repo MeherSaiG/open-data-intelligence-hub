@@ -70,14 +70,4 @@ python src/predict.py "The experience was ordinary and acceptable"
 python src/predict.py "I regret buying this product"
 ```
 
-## Viva questions
-1. Why is the vectorizer fitted only on training data?
-2. What does TF-IDF measure?
-3. Why use stratification in the split?
-4. When can accuracy be misleading?
-5. What does a confusion matrix reveal?
-6. Why can negation be difficult for a bag-of-words model?
-7. What is the difference between precision and recall?
-8. Why is Logistic Regression suitable for sparse text features?
-9. What does `max_features=5000` control?
-10. How would you improve performance with a larger dataset?
+
