@@ -30,3 +30,4 @@ Thumbs.db
 .streamlit/secrets.toml
 Mentee Contribution/Task 15 - Production-Grade Ensemble CNN Classifier with Performance Benchmarks/Venkatavivek - G40 AIML/data/dataset.zip
 **/data/dataset.zip
+*.tar.gz
