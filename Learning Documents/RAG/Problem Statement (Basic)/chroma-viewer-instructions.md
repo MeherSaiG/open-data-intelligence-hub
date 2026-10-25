@@ -80,7 +80,7 @@ Leave it empty for no filter.
 
 ## Related files
 
-- [01-problem-statement.md](./01-problem-statement.md)
-- [02-chroma-how-to.md](./02-chroma-how-to.md)
-- [03-rag_chroma_demo.py](./03-rag_chroma_demo.py)
-- [04-chroma_viewer.py](./04-chroma_viewer.py)
+- [01-problem-statement.md](./problem-statement.md)
+- [02-chroma-how-to.md](./how-to-use-chroma.md)
+- [03-rag_chroma_demo.py](./rag-with-chroma.py)
+- [04-chroma_viewer.py](./chroma_viewer.py)
