@@ -46,5 +46,5 @@ For the Chennai question after the improvements, `IN-2026` ranks first and no su
 
 ## Related files
 
-- [02-chroma-how-to.md](./02-chroma-how-to.md): Chroma concepts and commands.
-- [03-rag_chroma_demo.py](./03-rag_chroma_demo.py): the runnable solution.
+- [02-chroma-how-to.md](./how-to-use-chroma.md): Chroma concepts and commands.
+- [03-rag_chroma_demo.py](./rag-with-chroma.py): the runnable solution.
