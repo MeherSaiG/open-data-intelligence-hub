@@ -106,5 +106,5 @@ client.delete_collection("policies")
 
 ## Related files
 
-- [01-problem-statement.md](./01-problem-statement.md)
-- [03-rag_chroma_demo.py](./03-rag_chroma_demo.py)
+- [01-problem-statement.md](./problem-statement.md)
+- [03-rag_chroma_demo.py](./rag-with-chroma.py)
