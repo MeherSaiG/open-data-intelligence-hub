@@ -48,6 +48,6 @@ flowchart TD
 
 ## Related files
 
-- [01-problem-statement.md](./01-problem-statement.md)
-- [02-chroma-how-to.md](./02-chroma-how-to.md)
-- [03-rag_chroma_demo.py](./03-rag_chroma_demo.py)
+- [01-problem-statement.md](./problem-statement.md)
+- [02-chroma-how-to.md](./how-to-use-chroma.md)
+- [03-rag_chroma_demo.py](./rag-with-chroma.py)
