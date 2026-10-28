@@ -1,15 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
   
 # Virtual environments
 venv/
 .venv/
 env/
 
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Jupyter
+# Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
+
+# VS Code
 *.pyc
 
 
@@ -47,8 +51,11 @@ ENV/
 
 # IDE
 .vscode/
+
+# PyCharm
 .idea/
 
+# macOS
 # OS
 .DS_Store
 Thumbs.db
@@ -110,8 +117,23 @@ __pycache__/
 *.log
 # Operating system files
 .DS_Store
+
+# Windows
 Thumbs.db
 
+# Model Cache
+*.joblib
+
+# Large Dataset Backups (optional)
+*.zip
+*.tar.gz
+
+# Python cache
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.log
 # Streamlit secrets
 .streamlit/secrets.toml
 **/data/dataset.zip
