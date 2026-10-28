@@ -4,6 +4,8 @@ __pycache__/
 *.pyo
 
 # Virtual Environments
+  
+# Virtual environments
 venv/
 .venv/
 env/
@@ -12,12 +14,108 @@ env/
 .ipynb_checkpoints/
 
 # VS Code
+*.pyc
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+# Large trained model artifacts
+*.pkl
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
 .vscode/
 
 # PyCharm
 .idea/
 
 # macOS
+# OS
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ML / TensorFlow
+*.h5
+*.keras
+*.ckpt
+checkpoint/
+checkpoints/
+logs/
+wandb/
+
+# Large datasets
+data/
+datasets/
+*.parquet
+*.csv
+*.zip
+*.tar
+*.tar.gz
+
+# Generated results/caches
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ML / TensorFlow
+*.h5
+*.keras
+*.ckpt
+checkpoint/
+checkpoints/
+logs/
+wandb/
+
+# Large datasets
+data/
+datasets/
+*.parquet
+*.csv
+*.zip
+*.tar
+*.tar.gz
+
+# Generated results/caches
+__pycache__/
+*.log
+# Operating system files
 .DS_Store
 
 # Windows
@@ -36,3 +134,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+# Streamlit secrets
+.streamlit/secrets.toml
+**/data/dataset.zip
+*.tar.gz
