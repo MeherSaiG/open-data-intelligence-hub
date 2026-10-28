@@ -1,118 +1,73 @@
-# Virtual environments
-venv/
-.venv/
-env/
-
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Jupyter
-.ipynb_checkpoints/
-*.pyc
-
-# Large trained model artifacts
-*.pkl
-
-# Environment variables
-.env
-.env.*
-
-# IDE
-.vscode/
-.idea/
-
-# Operating system files
-.DS_Store
-Thumbs.db
-
-# Streamlit secrets
-.streamlit/secrets.toml
-
-# ==============================
 # Python
-# ==============================
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 
-# ==============================
-# Virtual Environment
-# ==============================
-.venv/
+# Virtual Environments
 venv/
+.venv/
 env/
 ENV/
 
-# ==============================
-# Jupyter Notebook
-# ==============================
+# Jupyter
 .ipynb_checkpoints/
 
-# ==============================
-# IDE / Editor
-# ==============================
+# IDEs
 .vscode/
 .idea/
 
-# ==============================
-# Operating System
-# ==============================
+# OS Files
 .DS_Store
 Thumbs.db
 
-# ==============================
 # Python Packaging
-# ==============================
 build/
 dist/
 *.egg-info/
 .eggs/
 
-# ==============================
-# Logs
-# ==============================
-*.log
+# Python Tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# ==============================
-# TensorFlow / Keras
-# ==============================
+# Machine Learning
 *.h5
 *.hdf5
 *.keras
+*.ckpt
+*.pkl
+*.joblib
+checkpoint/
+checkpoints/
+wandb/
 
-# ==============================
-# Large Dataset Files
-# ==============================
+# Datasets
 data/
+datasets/
+*.parquet
 *.csv
 *.zip
 *.rar
+*.tar
+*.tar.gz
+**/data/dataset.zip
 
-# ==============================
 # Generated Outputs
-# ==============================
 outputs/
 runs/
 logs/
 
-# ==============================
 # Temporary Files
-# ==============================
 *.tmp
 *.temp
 *.bak
 *.swp
+*.log
 
-# ==============================
-# Streamlit Secrets
-# ==============================
-.streamlit/secrets.toml
-
-# ==============================
-# Environment / Secrets
-# ==============================
+# Environment Variables and Secrets
 .env
 .env.*
 !.env.example
+.streamlit/secrets.toml
